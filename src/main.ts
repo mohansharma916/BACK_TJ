@@ -44,12 +44,6 @@ async function bootstrap() {
   if (corsConfig.enabled) {
     app.enableCors();
   }
-  app.route('/graphql').post(
-    graphqlHTTP({
-      schema: schema,
-      graphiql: true,
-    }),
-  );
 
   await app.listen(process.env.PORT || nestConfig.port || 3000);
 }
