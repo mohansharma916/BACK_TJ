@@ -1064,10 +1064,10 @@
     path-to-regexp "3.2.0"
     tslib "2.6.0"
 
-"@nestjs/graphql@12.0.8":
-  version "12.0.8"
-  resolved "https://registry.yarnpkg.com/@nestjs/graphql/-/graphql-12.0.8.tgz#15143b76dfb5fa4dc880d68a1bf2f7159ea077b6"
-  integrity sha512-odYDHUdLOMCxjC5VSEmF/23r8cY40N1KCwBkWaCmI1IF76Ffe3srWRDv8HS9tcai9eSmOeSWuyLBEg2OSru0cQ==
+"@nestjs/graphql@^12.0.8-next.1":
+  version "12.0.8-next.1"
+  resolved "https://registry.yarnpkg.com/@nestjs/graphql/-/graphql-12.0.8-next.1.tgz#67a27f31dfeeaf7940855a6ba24ad7fe2dc9c097"
+  integrity sha512-rxq+lxxYSu9PLON+q5jyM3+VtOp4x9rlKRarL5fEj89YI0WMX+m68MLstoA4DufXBfJNRYOZDil5izNvx2KOxQ==
   dependencies:
     "@graphql-tools/merge" "9.0.0"
     "@graphql-tools/schema" "10.0.0"
