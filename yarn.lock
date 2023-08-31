@@ -5474,6 +5474,11 @@ open@7:
     is-docker "^2.0.0"
     is-wsl "^2.1.1"
 
+openssl-nodejs@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/openssl-nodejs/-/openssl-nodejs-1.0.5.tgz#2249073693eabf5c5b33620eece4bf00bf1f914d"
+  integrity sha512-6+nxZBw96nK1WUk5yIjhv9NRjqtNTfklB508T64BG5TQ8fU1x1rJrc1I3iVW+31KjnYYYwInGTopYxFJa7wMqA==
+
 optionator@^0.9.3:
   version "0.9.3"
   resolved "https://registry.yarnpkg.com/optionator/-/optionator-0.9.3.tgz#007397d44ed1872fdc6ed31360190f81814e2c64"
